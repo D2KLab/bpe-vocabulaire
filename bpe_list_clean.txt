@@ -1,0 +1,1040 @@
+A SERVICES AUX PARTICULIERS
+Ce domaine regroupe les services publics, les administrations, les services automobiles, les métiers du bâtiment et d'autres services à la population.
+
+A1 SERVICES PUBLICS
+Ce sont les services publics de proximité : mairies, implantations France services, gendarmerie, police, justice, finances publiques.
+
+A101 POLICE
+Ce sont les commissariats centraux de police accueillant du public.
+A Paris, ce sont les commissariats de police accueillant du public.
+Ces services de la sécurité publique (hors CRS, police de l'air et des frontières, services régionaux des renseignements généraux, services de contrôle de l'immigration, services généraux d'administration de la police) ne comprennent pas les services de police municipale.
+Les informations concernant les commissariats de police de Paris sont issues du site internet de la Préfecture de Police de Paris.
+(source : SIRUS et Préfecture de Police de Paris)
+
+A104 GENDARMERIE
+Ce sont les unités de gendarmeries recevant du public. Ce type d'équipement comprend les brigades territoriales autonomes, les brigades territoriales de proximité, les brigades territoriales de contact et les communautés de brigades.
+(source : Observatoire économique de la Défense - Ministère de la Défense)
+
+A105 COUR D'APPEL (CA)
+La cour d'appel réexamine les affaires déjà jugées en premier degré (1er ressort ou 1ère instance) en matière civile, commerciale, sociale ou pénale. Seule exception : les appels des décisions des cours d'assises sont jugés par une autre cour d'assises. La cour d'appel est composée uniquement de magistrats professionnels. Elle intègre depuis 2014 les chambres détachées de la cour d'appel (CDCA).
+(source : Ministère de la Justice)
+
+A108 CONSEIL DE PRUD'HOMMES (CPH)
+Le conseil de prud'hommes règle les litiges individuels (congés payés, salaires, primes, licenciement, clause de non-concurrence, durée du préavis) qui surviennent entre salariés ou apprentis et employeurs, à l'occasion du contrat de travail ou d'apprentissage…, à l'exception des litiges collectifs, comme l'exercice du droit de grève. Ce tribunal est composé de juges non professionnels élus, représentant, en nombre égal et pour moitié, les employeurs et les salariés.
+Chaque conseil de prud'hommes est divisé en 5 sections, représentant les principaux secteurs du monde du travail : encadrement, industrie, commerce et services commerciaux, agriculture, activités diverses.
+(source : Ministère de la Justice)
+
+A109 TRIBUNAL DE COMMERCE (TCO)
+Le tribunal de commerce tranche, de manière générale, les litiges entre commerçants ou entre commerçants et sociétés commerciales, et ceux qui portent sur les actes de commerce. Il est composé de juges non professionnels, des commerçants bénévoles, élus pour 2 ou 4 ans par d'autres commerçants. Il intègre depuis 2014 les tribunaux mixtes de commerce (TMX) et les tribunaux judiciaires à compétence commerciale.
+(source : Ministère de la Justice)
+
+A120 DRFIP (DIRECTION RÉGIONALE DES FINANCES PUBLIQUES)
+Les DRFiP représentent la direction générale des finances publiques au niveau régional et disposent, en plus de leurs missions spécifiques, des missions relevant de la fiscalité et de la gestion publique dans le département où est situé le chef-lieu de région.
+La BPE recense les établissements des DRFiP (les centres des Finances publiques) disposant de services à compétence départementale ou locale, accueillant du public :
+- les services des impôts des particuliers (SIP)
+- les services fonciers
+- les services des impôts des entreprises (SIE)
+- les trésoreries
+- les services de publicité foncière (SPF)
+(source : SIRUS)
+
+A121 DDFIP (DIRECTION DÉPARTEMENTALE DES FINANCES PUBLIQUES)
+Les DDFiP représentent la direction générale des finances publiques au niveau départemental et disposent de missions relevant de la fiscalité et de la gestion publique.
+La BPE recense les établissements des DDFiP (les centres des Finances publiques) disposant de services à compétence départementale ou locale, accueillant du public :
+- les services des impôts des particuliers (SIP)
+- les services fonciers
+- les services des impôts des entreprises (SIE)
+- les trésoreries
+- les services de publicité foncière (SPF)
+(source : SIRUS)
+
+A122 RÉSEAU DE PROXIMITÉ PÔLE EMPLOI
+Cette catégorie comprend les agences et les relais Pôle emploi. Ces agences disposent de la présence d'un conseiller Pôle emploi en continu ou de façon planifiée et régulière. Certaines de ces agences interviennent aussi sur des segments spécifiques de public : handicap, audiovisuel et spectacle, cadres.
+(source : Pôle emploi)
+
+A124 MAISON DE JUSTICE ET DU DROIT
+La maison de justice et du droit dépend du tribunal judiciaire et intervient dans le domaine de la prévention et du traitement de la petite délinquance. Elle favorise le traitement amiable des conflits et organise des permanences gratuites d'information et de consultation juridique.
+(source : Ministère de la Justice)
+
+A125 ANTENNE DE JUSTICE
+L'antenne de justice offre un service de proximité d'information et d'accès au droit, gratuit et confidentiel. Certaines fonctionnent comme de véritables maisons de justice et du droit, d'autres s'apparentent à des points d'accès au droit.
+(source : Ministère de la Justice)
+
+A126 CONSEIL DÉPARTEMENTAL D'ACCÈS AU DROIT (CDAD)
+Le conseil départemental d'accès au droit est chargé de définir, de piloter et de coordonner les actions en matière d'aide à l'accès au droit. Il est chargé de recenser les dispositifs existants et les faire connaître, d'identifier les besoins non satisfaits, d'évaluer la qualité et l'efficacité des dispositifs d'actions locales et de participer éventuellement à leur financement. Il propose à l'usager différents types de services : information des personnes sur leurs droits et obligations, aide à l'accomplissement de toute démarche, consultation juridique gratuite, assistance à la rédaction et à la conclusion d'actes.
+(source : Ministère de la Justice)
+
+A128 IMPLANTATIONS FRANCE SERVICES (IFS)
+Les Implantations France Services, mises en place à partir de 2020, sont labellisées « France Services ».
+Ces services au public délivrent une offre de proximité à l'attention de tous les publics. En un lieu unique, les usagers sont accompagnés par des agents dans leurs démarches de la vie quotidienne. L'objectif est de permettre à l'ensemble des habitants d'accéder à un service de proximité et/ou de bénéficier d'un accompagnement administratif sur de nombreuses thématiques de la vie quotidienne : emploi, retraite, famille, social, santé, logement, énergie, services postaux, accès au droit, etc.
+Ces structures doivent répondre aux exigences de la charte nationale d'engagement, qui impose notamment un socle de services minimal : le « bouquet de services », constitué de six grands types de services :
+- Formation, emploi et retraite
+- Prévention santé
+- Etat civil et famille
+- Justice
+- Budget
+- Logement, mobilité et courrier
+Ce type d'équipement intègre une partie des équipements de la catégorie A123 - Réseau partenarial Pôle Emploi, supprimée en 2021.
+(source : Agence Nationale de la Cohésion des Territoires - ANCT)
+
+A129 MAIRIE
+Ce sont les mairies principales des communes de France. Ce type d'équipement a été introduit dans la BPE en 2021.
+(source : Direction Générale des Collectivités Locales - DGCL)
+
+A130 BUREAU D'AIDE JURIDICTIONNELLE (BAJ)
+Les bureaux d'aide juridictionnelle sont placés auprès des tribunaux pour recevoir les demandes d'aide juridictionnelle.
+L'octroi de l'aide juridictionnelle dispense en totalité ou en partie son bénéficiaire du paiement, de l'avance ou de la consignation de tous les frais afférents aux instances, procédures ou actes pour lesquels elle a été accordée.
+(source : Ministère de la Justice)
+
+A131 TRIBUNAL JUDICIAIRE (TJ)
+Le tribunal judiciaire est la juridiction de droit commun en matière civile, commerciale et pénale, c'est-à-dire la juridiction compétente pour tous les litiges qui n'ont pas été spécifiquement attribués par la loi à une autre juridiction.
+Suite à la Loi de Programmation Justice du 23 mars 2019 portant sur la réforme de l'organisation judiciaire au 1er janvier 2020, le tribunal judiciaire regroupe en une juridiction unique les tribunaux d'instance et de grande instance qui étaient situés dans une même ville.
+S'il existe plusieurs tribunaux judiciaires dans un même département, ceux-ci pourront être spécialisés pour les affaires complexes ou comptant un grand nombre de parties.
+(source : Ministère de la Justice)
+
+A132 TRIBUNAL DE PROXIMITÉ (TPRX)
+Le tribunal de proximité a été créé par la Loi de Programmation Justice du 23 mars 2019 portant sur la réforme de l'organisation judiciaire au 1er janvier 2020.
+C'est une chambre détachée du tribunal judiciaire compétente pour juger les « petits litiges ».
+Il garde un périmètre d'attributions proche de celui de l'ancien tribunal d'instance à l'exception des élections professionnelles et du contentieux des contrats de travail des marins qui deviennent des compétences exclusives du tribunal judiciaire.
+(source : Ministère de la Justice)
+
+A2 SERVICES GÉNÉRAUX
+Ce sont les banques, les bureaux et points postaux, les services funéraires.
+
+A203 BANQUE, CAISSE D'ÉPARGNE
+Ce sont les établissements de crédit agréés, les banques mutualistes ou coopératives et caisses d'épargne et de prévoyance. Cette catégorie ne comprend pas les guichets financiers de La Poste.
+Cette catégorie fait apparaître des services administratifs ou des points-contacts que l'on ne peut pas distinguer des guichets.
+Par ailleurs, la déclaration au RCS des établissements secondaires (les agences) des organismes bancaires n'est pas obligatoire.
+(source : SIRUS)
+
+A205 SERVICES FUNÉRAIRES
+Cette catégorie comprend les activités de services funéraires (mise en bière, transport, services d'inhumation ou de crémation) quelle que soit la forme juridique.
+- l'inhumation et l'incinération des corps (êtres humains ou animaux) et les activités connexes : préparation des corps pour la sépulture ou l'incinération, embaumement et services fournis par les entreprises de pompes funèbres ; services d'inhumation et d'incinération ; location de locaux aménagés dans les funérariums.
+- la location ou la vente de concessions
+- l'entretien de tombes et de mausolées.
+Il s'agit de l'activité principale déclarée. Cette activité est parfois exercée en annexe de celle de taxi ou d'ambulance en secteur rural. Elle ne figure alors pas dans la BPE.
+(source : SIRUS)
+
+A206 BUREAU DE POSTE
+Le bureau de poste, en gestion directe par La Poste, offre la totalité des produits et services délivrés à la population tant pour ce qui concerne le courrier et les colis (courrier simple, recommandé, réexpédition, prêt à poster…) que pour les services financiers (ouverture de comptes, dépôts, retraits, assurances-vie, PEL, actions…).
+(source : LA POSTE)
+
+A207 RELAIS POSTE
+Le relais poste est géré principalement par une personne privée dans le cadre de conventions de partenariat signées entre La Poste et des partenaires privés. Il offre une grande partie des produits et services de proximité délivrés à la population concernant le courrier et les colis (courrier simple, recommandé, prêt à poster, à l'exception de l'établissement d'une procuration postale…). Les services financiers sont limités au retrait d'espèces (maximum 150 euros par semaine) et au paiement de mandat cash.
+(source : LA POSTE)
+
+A208 AGENCE POSTALE
+L'agence postale est gérée par une personne publique, représentée par des agents territoriaux dans le cadre de conventions de partenariat signées entre La Poste et les communes ou EPCI concernées. Elle offre une grande partie des produits et services délivrés à la population tant pour ce qui concerne le courrier et les colis (comparable aux prestations des bureaux de poste) que pour les services financiers (légèrement moindres aux prestations des bureaux de poste : ouverture de compte et produits financiers tels que assurance-vie, PEL ou actions impossibles).
+(source : LA POSTE)
+
+A3 SERVICES AUTOMOBILES
+Ce sont les écoles de conduite, les entreprises de réparation, de contrôle technique ou de location
+
+A301 RÉPARATION AUTOMOBILE ET DE MATÉRIEL AGRICOLE
+Cette activité est souvent une activité secondaire, l'activité principale étant « commerce ». Dans ce cas, seules les unités exerçant une activité de réparation complémentaire du commerce de véhicules automobiles, du commerce de détail de carburants et du commerce de gros de matériel agricole sont retenues. La réparation de tondeuses à gazon n'est pas comprise dans cette catégorie.
+Le code APE principal ne suffit pas pour distinguer l'activité, notamment en zone rurale. La recherche est complétée sur le code APRM (activité artisanale).
+(source : SIRUS)
+
+A302 CONTRÔLE TECHNIQUE AUTOMOBILE
+Cette catégorie concerne le contrôle périodique des véhicules avec délivrance d'un certificat.
+(source : SIRUS)
+
+A303 LOCATION AUTO-UTILITAIRES LÉGERS
+Il s'agit de l'activité de location de véhicules sans chauffeur, y compris de véhicules utilitaires légers.
+C'est l'activité principale déclarée. Cette activité est parfois exercée en annexe de celle de supermarché ou hypermarché. Elle ne figure alors pas dans la BPE.
+(source : SIRUS)
+
+A304 ÉCOLE DE CONDUITE
+Cette activité inclut les écoles de formation à la conduite sportive, au pilotage (autre que professionnel) de bateaux et d'avions.
+(source : SIRUS)
+
+A4 ARTISANAT DU BÂTIMENT
+Ce sont les artisans et entreprises spécialisés dans le bâtiment.
+
+A401 MAÇON
+Il s'agit de l'activité de maçonnerie, déclarée comme activité principale.
+Il y a souvent multi-activité chez les artisans.
+(source : SIRUS)
+
+A402 PLÂTRIER PEINTRE
+Il s'agit des activités de plâtrier ou peintre, déclarées comme activités principales.
+Il est possible qu'une seule des activités soit déclarée, ou qu'il y ait multi-activité.
+(source : SIRUS)
+
+A403 MENUISIER CHARPENTIER SERRURIER
+Il s'agit des activités de menuisier, charpentier ou serrurier, déclarées comme activités principales.
+Il est possible qu'une seule des activités soit déclarée, ou qu'il y ait multi-activité.
+(source : SIRUS)
+
+A404 PLOMBIER COUVREUR CHAUFFAGISTE
+Il s'agit des activités de plombier, couvreur ou chauffagiste, déclarées comme activités principales.
+Il est possible qu'une seule des activités soit déclarée, ou qu'il y ait multi-activité.
+(source : SIRUS)
+
+A405 ÉLECTRICIEN
+Il s'agit de l'activité d'électricien, déclarée comme activité principale.
+Il y a souvent multi-activité chez les artisans.
+(source : SIRUS)
+
+A406 ENTREPRISE GÉNÉRALE DU BÂTIMENT
+Il s'agit d'activités dans le domaine du bâtiment, déclarées comme activités principales.
+Il peut y avoir une seule activité déclarée, ou multi-activité
+(source : SIRUS)
+
+A5 AUTRES SERVICES À LA POPULATION
+Ce sont des commerces de services de proximité dans différentes branches : coiffure, esthétique, pressing, restauration, intérim, vétérinaire.
+
+A501 COIFFURE
+Cette catégorie comprend les salons de coiffure et l'activité de coiffure à domicile.
+(source : SIRUS)
+
+A502 VÉTÉRINAIRE
+Ce sont les services en clinique, en cabinet ou en visite pour animaux d'élevage ou de compagnie.
+(source : SIRUS)
+
+A503 AGENCE DE TRAVAIL TEMPORAIRE
+Ces équipements fournissent aux entreprises, sur une base temporaire, du personnel intérimaire.
+Dans certaines zones, de nombreux doublons dus aux modalités d'enregistrement des agences peuvent apparaître.
+(source : SIRUS)
+
+A504 RESTAURANT- RESTAURATION RAPIDE
+Cette catégorie comprend la restauration traditionnelle, la restauration de type rapide et depuis 2019, les cafétérias. Les salons de thé y sont également inclus.
+L'activité de restauration est parfois exercée en annexe de celle d'hôtel.
+Cette catégorie ne comprend pas les hôtels-restaurants, classés avec les hôtels seuls (G102).
+(source : SIRUS)
+
+A505 AGENCE IMMOBILIÈRE
+Ce sont les activités intermédiaires en achat, vente et location de biens immobiliers, fonciers et commerciaux.
+(source : SIRUS)
+
+A506 PRESSING-LAVERIE AUTOMATIQUE
+Cette catégorie comprend l'activité des blanchisseries de détail, dont les dépôts, le service des laveries automatiques en libre service, le nettoyage des vêtements (pressing).
+(source : SIRUS)
+
+A507 INSTITUT DE BEAUTÉ-ONGLERIE
+Cette catégorie regroupe les soins esthétiques, de manucure et de pédicure.
+Il s'agit de l'activité principale déclarée.
+Cette activité est parfois exercée en annexe de celle de parfumerie. Elle ne figure alors pas dans la BPE.
+(source : SIRUS)
+
+B COMMERCES
+Ce domaine est divisé en trois : les grandes surfaces, les commerces alimentaires et des commerces spécialisés non-alimentaires (qui ne sont pas présents dans le domaine A).
+
+B1 GRANDES SURFACES
+Ce sont les magasins alimentaires ou de bricolage dont la surface est supérieure à 400 m².
+Remarque : la NAF a conservé le seuil de 400 m², différent du seuil administratif de la DGCCRF fixé à 300 m².
+
+B101 HYPERMARCHÉ
+Ce sont les commerces de détail à prédominance alimentaire avec une surface de vente déclarée supérieure à 2500 m².
+Ce type d'équipement concerne aussi les établissements spécifiquement dédiés au drive.
+(source : SIRUS)
+
+B102 SUPERMARCHÉ
+Ce sont les commerces de détail à prédominance alimentaire avec une surface de vente déclarée entre 400 et 2500 m².
+Ce type d'équipement concerne aussi les établissements spécifiquement dédiés au drive.
+(source : SIRUS)
+
+B103 GRANDE SURFACE DE BRICOLAGE
+Ce sont les surfaces de vente déclarée supérieures à 400 m².
+(source : SIRUS)
+
+B2 COMMERCES ALIMENTAIRES
+Ce sont des commerces alimentaires de proximité.
+
+B201 SUPÉRETTE
+Ce sont les commerces de détail non spécialisés à prédominance alimentaire avec une surface de vente déclarée entre 120 et 400 m².
+La limite de 120 m² n'est utilisée que par la NAF : il est recommandé de regrouper les supérettes (B201) avec les épiceries (B202).
+Remarque : la NAF a conservé le seuil de 400 m², différent du seuil administratif de la DGCCRF fixé à 300 m².
+(source : SIRUS)
+
+B202 ÉPICERIE
+Ce sont les commerces de détail non spécialisés à prédominance alimentaire en surface de vente déclarée inférieure à 120 m².
+Les multiservices en zone rurale, à la fois épicerie, café, vente de tabac, vente de journaux, restaurant, etc. n'apparaissent ici que si la déclaration effectuée à SIRENE mentionne l'activité d'épicerie en activité principale.
+La limite de 120 m² n'est utilisée que par la NAF : il est recommandé de regrouper les épiceries (B202) avec les supérettes (B201).
+(source : SIRUS)
+
+B203 BOULANGERIE
+Ce sont les commerces dédiés à la vente de produits de boulangerie (pain, viennoiserie), artisanale ou pas, avec ou sans pâtisserie.
+Cette catégorie comprend aussi les terminaux de cuisson, la vente sans fabrication de produits de boulangerie.
+Elle ne comprend pas la vente de pizzas à emporter et les confiseurs spécialisés.
+(source : SIRUS)
+
+B204 BOUCHERIE CHARCUTERIE
+Ce sont les commerces de détail spécialisés dans la vente de viande et la préparation à base de viande.
+Cette activité ne comprend pas les traiteurs exclusifs.
+(source : SIRUS)
+
+B205 PRODUITS SURGELÉS
+Ce sont les commerces de détail de produits surgelés, en magasin ou par livraison à domicile.
+(source : SIRUS)
+
+B206 POISSONNERIE
+Ce sont les commerces de détail alimentaire en magasin spécialisé de vente des produits de la mer (poissons, crustacés et mollusques).
+Cette catégorie ne comprend pas les entreprises de transformation et conservation industrielles, les exploitations d'aquaculture et les activités de pêche.
+(source : SIRUS)
+
+B3 COMMERCES SPÉCIALISÉS NON ALIMENTAIRES
+Ce sont des commerces non-alimentaires de différentes branches, ainsi que les stations-service.
+
+B301 LIBRAIRIE, PAPETERIE, JOURNAUX
+Ce sont les commerces de détail en magasin spécialisé de journaux, papeterie et livres. dont journaux et périodiques.
+(source : SIRUS)
+
+B302 MAGASIN DE VÊTEMENTS
+Ce sont les commerces de détail d'habillement en magasin spécialisé, dont les accessoires du vêtement : gants, cravates, ceintures...
+(source : SIRUS)
+
+B303 MAGASIN D'ÉQUIPEMENTS DU FOYER
+Ce sont les commerces de détail d'appareils d'éclairage, d'ustensiles ménagers, de vaisselle, d'instruments de musique et de partitions, de systèmes de sécurité à alarmes électriques sans services d'installation ou de maintenance…
+(source : SIRUS)
+
+B304 MAGASIN DE CHAUSSURES
+Ce sont les commerces de détail de chaussures, dont les chaussures de sport.
+Cette catégorie ne comprend pas le commerce de détail de chaussures à usage exclusif sportif, telles que des chaussures de ski, chaussures à crampons, etc.
+(source : SIRUS)
+
+B305 MAGASIN D'ÉLECTROMÉNAGER ET DE MAT. AUDIO-VIDEO
+Ce sont les commerces de détail de matériel "blanc" (réfrigérateurs, appareils de cuisson électriques ou mixtes, lave-vaisselle, lave-linge, petit électroménager…) et "brun" (téléviseurs, radios, lecteurs DVD, caméscopes, chaînes HI-FI…).
+Cette catégorie ne comprend pas les commerces de vente d'instruments de musique, de CD ou de disques, DVD.
+(source : SIRUS)
+
+B306 MAGASIN DE MEUBLES
+Ce sont les commerces de détail essentiellement de mobilier domestique, de bureau ou de literie, dont les commerces de sommiers et matelas.
+(source : SIRUS)
+
+B307 MAGASIN D'ARTICLES DE SPORTS ET DE LOISIRS
+Ce sont les commerces d'articles de sports et loisirs (vêtements, équipements), dont les vêtements et chaussures à usage sportif exclusif.
+(source : SIRUS)
+
+B308 MAGASIN DE REVÊTEMENTS MURS ET SOLS
+Ce sont les commerces de détail de tapis et moquettes, de rideaux et de voilages, de papiers peints et de revêtements de sols.
+(source : SIRUS)
+
+B309 DROGUERIE QUINCAILLERIE BRICOLAGE
+Ce sont les commerces de détail de quincaillerie, peintures et verres, en surface de vente déclarée inférieure à 400 m².
+(source : SIRUS)
+
+B310 PARFUMERIE-COSMÉTIQUE
+Ce sont les commerces de détail de parfumerie, de produits de beauté et de cosmétiques en magasin spécialisé.
+Il s'agit de l'activité principale déclarée. Cette activité est parfois exercée en annexe de celle d'instituts de beauté. Elle ne figure alors pas dans la BPE.
+(source : SIRUS)
+
+B311 HORLOGERIE-BIJOUTERIE
+Ce sont les commerces de vente au détail d'articles d'horlogerie et de bijouterie, en magasin spécialisé.
+(source : SIRUS)
+
+B312 FLEURISTE-JARDINERIE-ANIMALERIE
+Ce sont les commerces de détail en magasin spécialisé de fleurs, plants, arbres, arbustes, graines, engrais, animaux de compagnie et aliments pour ces animaux.
+(source : SIRUS)
+
+B313 MAGASIN D'OPTIQUE
+Ce sont les commerces de détail de lunettes correctives ou non, d'appareils photographiques et pellicules, de microscopes, de télescopes.
+Les commerces exclusivement dédiés à l'activité des photographes sont exclus de cette catégorie.
+(source : SIRUS)
+
+B315 MAGASIN DE MATÉRIEL MÉDICAL ET ORTHOPÉDIQUE
+Ce sont les commerces de détail d'articles médicaux et d'orthopédie en magasin spécialisé.
+Cette catégorie comprend aussi le commerce de détail de prothèses, d'orthèses, de véhicules pour invalides et la vente au détail de prothèses auditives.
+(source : SIRUS)
+
+B316 STATION-SERVICE
+Ce sont les commerces de détail de carburant ayant vendu au moins 500 000 litres de carburant au cours de l'année n-1. Les plus petites stations ne sont comprises que sur la base du volontariat.
+A partir de 2021, ces équipements sont disponibles sur la France entière.
+(Source : Ministère de l'Économie et des Finances - data.gouv.fr pour la métropole - Sirus pour les Dom - Internet pour Mayotte)
+
+C ENSEIGNEMENT
+Ce domaine regroupe les établissements d'enseignement par niveaux et types d'enseignement : primaire, collège, lycée, supérieur universitaire ou non-universitaire, la formation continue et des services de l'éducation.
+
+C1 ENSEIGNEMENT DU PREMIER DEGRÉ
+Ce sont les écoles maternelles et primaires.
+
+C101 ÉCOLE MATERNELLE
+Ce sont les écoles assurant tous les niveaux de maternelle, y compris les annexes d'ESPE, la maternelle d'application et spécialisée.
+Cette catégorie inclut les écoles en regroupement pédagogique intercommunal (RPI) concentré, soit toutes les classes regroupées, mais pas les classes de RPI dispersés (cf. C102).
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C102 ÉCOLE MATERNELLE DE REGROUPEMENT PÉDAGOGIQUE INTERCOMMUNAL (RPI) DISPERSÉ
+Ce sont des écoles maternelles dans lesquelles tous les niveaux de maternelle ne sont pas assurés.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C104 ÉCOLE ÉLÉMENTAIRE
+Ce sont les écoles assurant tous les niveaux d'école élémentaire, y compris les annexes d'ESPE, l'école élémentaire d'application, spécialisée ou régionale.
+Cette catégorie inclut les écoles en regroupement pédagogique intercommunal (RPI) concentré, soit toutes les classes regroupées, mais pas les classes de RPI dispersés (cf. C105).
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C105 ÉCOLE ÉLÉMENTAIRE DE REGROUPEMENT PÉDAGOGIQUE INTERCOMMUNAL (RPI) DISPERSÉ
+Ce sont les écoles élémentaires dans lesquelles tous les niveaux d'école élémentaire ne sont pas assurés.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C2 ENSEIGNEMENT DU SECOND DEGRÉ PREMIER CYCLE
+Ce sont les collèges.
+
+C201 COLLÈGE
+Ce sont les collèges d'enseignement général, ainsi que les collèges d'enseignement spécialisé.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C3 ENSEIGNEMENT DU SECOND DEGRÉ SECOND CYCLE
+Ce sont les lycées et les sections d'enseignement professionnel.
+
+C301 LYCÉE D'ENSEIGNEMENT GÉNÉRAL ET/OU TECHNOLOGIQUE
+Ce sont les lycées d'enseignement général, technologique, les lycées polyvalents et les écoles secondaires spécialisées.
+Ces établissements ne sont pas sous la tutelle du ministère de l'agriculture.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C302 LYCÉE D'ENSEIGNEMENT PROFESSIONNEL
+Ce sont les lycées d'enseignement professionnel, les écoles de métiers et les écoles professionnelles spécialisées.
+Ces établissements ne sont pas sous la tutelle du ministère de l'agriculture.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C303 LYCÉE D'ENSEIGNEMENT TECHNIQUE ET/OU PROFESSIONNEL AGRICOLE
+Ce sont des établissements d'enseignement sous tutelle du ministère de l'agriculture.
+Cette catégorie intègre aussi les maisons familiales et rurales et les autres établissements d'enseignement agricole privé.
+(source : Direction générale de l'enseignement et de la recherche du ministère de l'Agriculture - DGER)
+
+C304 SGT SECTION D'ENSEIGNEMENT GÉNÉRAL ET TECHNOLOGIQUE
+Cette catégorie indique la présence d'enseignement général et technologique au sein d'un lycée professionnel.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C305 SEP SECTION D'ENSEIGNEMENT PROFESSIONNEL
+Cette catégorie indique la présence d'enseignement professionnel au sein d'un lycée d'enseignement général et/ou technologique.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C4 ENSEIGNEMENT SUPÉRIEUR NON UNIVERSITAIRE
+Ce sont les écoles de formation supérieures dans différentes filières.
+
+C401 STS SECTION TECHNICIEN SUPÉRIEUR, CPGE CLASSE PRÉPARATOIRE AUX GRANDES ÉCOLES
+Ce sont des établissements proposant spécifiquement des formations au diplôme de technicien supérieur et des classes préparatoires aux grandes écoles (CPGE).
+Remarque : la majorité des CPGE sont identifiées par la variable CL_PGE dans les types d'équipement C301, C302 et C303.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C402 FORMATION SANTÉ
+Ce sont les écoles de formation sanitaire et sociale publiques ou privées : formation de personnels médicaux et para-médicaux, techniques (laborantins), sanitaires (aides-soignants, ambulanciers), sociaux (service social, éducateurs…)
+Les établissements sous tutelle du ministère de la santé sont présents dans cette catégorie.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C403 FORMATION COMMERCE
+Ce sont les écoles de commerce, gestion, administration d'entreprises, comptabilité, vente.
+Cette catégorie comprend notamment les réseaux d'écoles des CCI.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C409 AUTRE FORMATION POST BAC NON UNIVERSITAIRE
+Ce sont les écoles de formation d'enseignants non ESPE, d'administration publique (y compris de fonctionnaires), technico professionnelles des services, de formation artistique, d'architecture, de formation agricole ou halieutique, technico professionnelles industrielles, juridiques.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C5 ENSEIGNEMENT SUPÉRIEUR UNIVERSITAIRE
+Ce sont les formations universitaires, en écoles d'ingénieurs publiques ou privées, les écoles d'enseignement agricole, les formations supérieures privées, les grandes écoles ou centres de formation publiques.
+
+C501 UFR
+Cette catégorie regroupe les Unités de Formation et de Recherche (UFR), dont les UFR de médecine, odontologie, pharmacie, ainsi que les antennes délocalisées des UFR ou autres composantes.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C502 INSTITUT UNIVERSITAIRE
+Ce sont les Instituts Universitaires Professionnalisés (IUP), les Instituts Universitaires de Technologie (IUT), ainsi que les antennes délocalisées, les ESPE et les antennes d'ESPE.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C503 ÉCOLE D'INGÉNIEURS
+Ce sont les écoles d'ingénieurs publiques sous tutelle du ministère de l'enseignement supérieur et de la recherche ou d'un autre ministère, et les écoles privées d'ingénieurs.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C504 ENSEIGNEMENT GÉNÉRAL SUPÉRIEUR PRIVÉ
+Ces sont les établissements privés d'enseignement universitaire, les centres ou facultés privés, les instituts catholiques.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C505 ÉCOLE D'ENSEIGNEMENT SUPÉRIEUR AGRICOLE
+Ce sont les écoles post-bac d'enseignement supérieur long (école nationale vétérinaire, école supérieure d'agriculture…) dans le domaine agricole.
+(source : Direction générale de l'enseignement et de la recherche du ministère de l'Agriculture - DGER)
+
+C509 AUTRE ENSEIGNEMENT SUPÉRIEUR
+Ce sont les écoles normales supérieures, les instituts nationaux polytechniques, les instituts d'administration des entreprises, les instituts de préparation à l'administration générale, les instituts d'études politiques, les institut du travail, les centres régionaux associés au CNAM (Conservatoire National des Arts et Métiers), les Universités de technologie et les centres universitaires de formation et de recherche.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C6 FORMATION CONTINUE
+Ce sont les centres de formation d'apprentis ou en continu, et spécifiques à différentes filières.
+
+C601 CENTRE DE FORMATION D'APPRENTIS HORS AGRICULTURE
+Ce sont les centres de formation d'apprentis avec convention régionale ou nationale, dont les antennes et sections d'apprentissage.
+Cette catégorie ne comprend pas l'apprentissage agricole.
+Suite à la réforme de l'apprentissage portée par la loi du 5 septembre 2018 pour la liberté de choisir son avenir professionnel, des « Organismes de formation - Centres de formation des apprentis» (OF-CFA) ont été créés à la rentrée 2019. La forte augmentation du nombre de CFA dans la BPE 2021 s'explique par la mise en application de la loi pour la liberté de choisir son avenir professionnel.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C602 GRETA
+Ce sont les Groupements d'établissements pour la formation continue. Ils sont toujours rattachés à un EPLE (Établissement public local d'enseignement).
+Les annexes des GRETA ne sont pas immatriculées.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C603 CENTRE DISPENSANT DE LA FORMATION CONTINUE AGRICOLE
+Ce sont les centres de formation professionnelle et de promotion agricole ou de formation continue agricole (toujours rattachés à un EPLE agricole).
+(source : Direction générale de l'enseignement et de la recherche du ministère de l'Agriculture - DGER)
+
+C604 FORMATION AUX MÉTIERS DU SPORT
+Ce sont les établissements de formation aux métiers du sport : écoles et instituts nationaux de la jeunesse et des sports (INSEP, INJEP, ENSA, ENEV, ENSFS, ENE), centres régionaux d'éducation populaire et de sport (CREPS). Ils sont sous la tutelle du ministère en charge des sports.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C605 CENTRE DISPENSANT DES FORMATIONS D'APPRENTISSAGE AGRICOLE
+Ce sont les centres de formation agricole d'apprentis.
+(source : Direction générale de l'enseignement et de la recherche du ministère de l'Agriculture - DGER)
+
+C609 AUTRE FORMATION CONTINUE
+Ce sont d'autres types d'établissements de formation continue.
+Cette catégorie regroupe les centres d'enseignement à distance (CNED et ses centres d'enseignement, centres privés soumis à déclaration), les établissements de formation continue hors Éducation nationale ou hors Agriculture.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C7 AUTRES SERVICES DE L'ÉDUCATION
+Ce sont les résidences et restaurants universitaires.
+
+C701 RÉSIDENCE UNIVERSITAIRE
+Les résidences (ou cités) « U » sont gérées par le CROUS. Elles ne sont pas accessibles à tous.
+Pour obtenir une chambre en résidence universitaire, l'étudiant doit constituer un Dossier Social Etudiant (DSE) à remettre au CROUS. La location d'un logement de ce type n'est valable qu'un an. L'année suivante, l'étudiant doit refaire son dossier pour reformuler une demande.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+C702 RESTAURANT UNIVERSITAIRE
+Un restaurant universitaire est une cantine, un lieu de restauration collective, destiné aux étudiants. Les restaurants universitaires ont pour objectif de servir un repas complet composé d'une entrée, d'un plat chaud et d'un dessert à prix modéré.
+(source : Répertoire académique et ministériel sur les établissements du système éducatif - RAMSESE)
+
+D SANTÉ ET ACTION SOCIALE
+Ce domaine regroupe les établissements sanitaires et médico-sociaux, les professionnels de santé généralistes ou spécialistes, et les professions paramédicales.
+Pour les sous-domaines D1, D3, D4, D6, D7, les règles de gestion du fichier recensant les établissements sanitaires et sociaux (Finess) peuvent conduire à l'immatriculation de plusieurs unités à la même adresse avec des types d'équipement différents dans la BPE.
+
+D1 ÉTABLISSEMENTS ET SERVICES DE SANTÉ
+Ce sont les établissements et services sanitaires. Un établissement peut disposer de plusieurs services avec des spécialités différentes.
+
+D101 ÉTABLISSEMENT SANTÉ COURT SÉJOUR
+Ce sont les établissements hospitaliers (y compris cliniques privées) exerçant des soins de courte durée en médecine et/ou chirurgie.
+Cette catégorie contient les centres hospitaliers et hôpitaux locaux, les hôpitaux des armées, les syndicats inter-hospitaliers avec discipline de soins et les autres établissements de la loi hospitalière.
+On peut trouver à la même adresse les établissements hospitaliers et syndicats inter-hospitaliers ou unités de médecine et de chirurgie ou unités avec adresse « administrative » commune.
+Les établissements de soins du Service de santé des armées ne sont pas suivis. Les maternités autonomes classées en D107 ne sont pas dans cette catégorie.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D102 ÉTABLISSEMENT SANTÉ MOYEN SÉJOUR
+Ce sont les établissements hospitaliers (y compris cliniques privées) exerçant des soins de suite et de réadaptation (ou moyen séjour).
+Cette catégorie peut contenir les mêmes établissements que D101 s'ils disposent d'un tel service de soins, ainsi que les maisons de régime, les établissements de lutte contre la tuberculose et ceux de lutte contre l'alcoolisme, les établissements de convalescence et de repos et ceux de réadaptation fonctionnelle.
+Les établissements pour enfants à caractère sanitaire, estimés de moyen séjour (Maisons d'enfants et pouponnières) ainsi que les groupements de coopération sanitaire - établissement de santé sont aussi dans cette catégorie.
+Pour les hôpitaux des armées, l'information concernant la présence ou non d'un service de moyen séjour n'est pas disponible. Ils n'ont été retenus qu'en court séjour (D101).
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D103 ÉTABLISSEMENT SANTÉ LONG SÉJOUR
+Ce sont les établissements hospitaliers (y compris cliniques privées) exerçant des soins de longue durée.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D104 ÉTABLISSEMENT PSYCHIATRIQUE
+Ce sont les centres hospitaliers spécialisés contre les maladies mentales (CHS) ou les établissements hospitaliers (y compris cliniques privées) exerçant des soins de psychiatrie adulte et/ou infanto juvénile.
+Ce sont aussi des structures avec hébergement : les maisons de santé pour maladies mentales et les centres de postcure pour malades mentaux.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D105 CENTRE LUTTE CANCER
+Ce sont les établissements de santé privé à but non lucratif exclusivement dédiés aux soins, à la recherche et à l'enseignement en cancérologie.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D106 URGENCES
+Ce sont les services d'intervention (SAMU - SMUR) et d'accueil des urgences.
+On trouve le service d'intervention et le service d'accueil à la même adresse.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D107 MATERNITÉ
+Ce sont les services de soins en gynécologie et obstétrique, en établissement autonome ou en activité parmi d'autres au sein d'un établissement hospitalier.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D108 CENTRE DE SANTÉ
+Ce sont les dispensaires ou les centres de soins dentaires, médicaux, infirmiers ou polyvalents.
+On trouve à la même adresse centre médical et centre dentaire ou centre infirmier…
+Les centres d'examen ne peuvent être assimilés à des centres de soins et ont été classés en D110.
+Les centres de santé ont une mission sociale d'accès aux soins (pratique du tiers payant et tarifs conventionnels). Ils sont essentiellement implantés en zones urbaines défavorisées. Ils peuvent être crée et géré par des collectivités territoriales, des établissements publics de coopération intercommunale, des organismes à but non lucratif, des établissements de santé publics, des gestionnaires d'établissement de santé privés et des sociétés coopératives d'intérêt collectif. Quel que soit le statut du gestionnaire, la gestion du centre doit être non lucrative. Tous les professionnels sont salariés. L'ouverture d'un centre de santé est subordonnée à l'ARS, qui peut, en outre, réaliser des contrôles qui peuvent conduire à la fermeture provisoire ou définitive du centre, en cas de manquement.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D109 STRUCTURE PSYCHIATRIQUE EN AMBULATOIRE
+Ce sont les établissements sans hébergement relevant de la loi hospitalière tels que les centres médico-psychologiques, les ateliers ou appartements thérapeutiques, l'accueil thérapeutique à temps partiel, les centres de crise.
+On trouve à la même adresse des unités soumises à des gestions différentes (tarification, tutelle…)
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D110 CENTRE MÉDECINE PRÉVENTIVE
+Ce sont les dispensaires antituberculeux, antivénérien, antihansénien, les centres de vaccination BCG, de consultation pour le cancer, d'examens de santé et polyvalents.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D111 DIALYSE
+Ce sont des centres de dialyse ambulatoire, qu'ils soient autonomes ou que ce soit une activité parmi d'autres au sein d'un établissement.
+Ces équipements relèvent de la loi hospitalière.
+On peut trouver à la même adresse le centre de dialyse et la structure alternative de dialyse à domicile.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D112 HOSPITALISATION À DOMICILE
+Ce sont les établissements d'hospitalisation à domicile autonomes ou les services d'hospitalisation à domicile rattachés à un établissement de santé, public ou privé, hors centres de dialyse.
+Il y a peu d'établissements pratiquant uniquement l'hospitalisation à domicile.
+Ces équipements relèvent de la loi hospitalière.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D113 MAISON DE SANTÉ PLURIDISCIPLINAIRE
+La maison de santé est une personne morale. Elle regroupe plusieurs professionnels de santé libéraux de premier recours : médecins généralistes, infirmières, pharmaciens, masseurs kinésithérapeutes, chirurgiens-dentistes, orthophonistes, pédicures-podologues, diététiciens, ergothérapeutes, psychomotriciens, psychologues…Ces professionnels assurent des activités de soins sans hébergement de premier recours et peuvent participer à des actions de santé publique, de prévention, d'éducation pour la santé. Ils sont unis par un projet de santé commun.
+Une maison de santé pluriprofessionnelle universitaire est une maison de santé, ayant signé une convention tripartite avec l'agence régionale de santé dont elle dépend et un établissement public à caractère scientifique, culturel et professionnel comportant une unité de formation et de recherche de médecine, de pharmacie ou d'odontologie, ayant pour objet le développement de la formation et la recherche en soins primaires. Les modalités de fonctionnement, d'organisation et d'évaluation de ces maisons de santé pluriprofessionnelles universitaires sont fixées par arrêté conjoint des ministres chargés de la santé et de l'enseignement supérieur.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D2 FONCTIONS MÉDICALES ET PARA-MÉDICALES (À TITRE LIBÉRAL)
+Ce sont les professionnels de santé et paramédicaux recensés dans les bases du Ministère de la Santé.
+Les spécialités médicales proposées sont les plus importantes en effectifs de libéraux et où au moins la moitié des praticiens exercent sous forme libérale.
+Certaines professions paramédicales sont exercées majoritairement par des professionnels salariés. Le nombre de professionnels libéraux est donc relativement faible (exemple : psychomotriciens, ergothérapeutes, etc.).
+Un professionnel de santé peut être enregistré à plusieurs adresses d'exercice. Dans la BPE, on ne retient que celles où l'activité est exercée à titre libéral.
+Par exemple, les médecins fonctionnaires et les médecins salariés exerçant en établissement sanitaire sont exclus, puisque ces établissements (ou services) sont accessibles dans une autre catégorie de la BPE.
+
+D201 MÉDECIN GÉNÉRALISTE
+C'est le lieu d'exercice des médecins « généralistes », ainsi que des médecins non-spécialistes ayant une compétence particulière (acupuncteurs, homéopathes, allergologues, gynécologues…), exerçant leur activité principale en libéral (en cabinet individuel ou de groupe ou en société).
+(source : Répertoire partagé des professionnels de santé - RPPS)
+
+D202 SPÉCIALISTE EN CARDIOLOGIE
+C'est le lieu d'exercice des cardiologues, ainsi que des chirurgiens thoraciques, exerçant leur activité principale en libéral (en cabinet individuel ou de groupe ou en société).
+Si le praticien exerce dans plusieurs spécialités, seule la principale a été retenue.
+(source : Répertoire partagé des professionnels de santé - RPPS)
+
+D203 SPÉCIALISTE EN DERMATOLOGIE VÉNÉRÉOLOGIE
+C'est le lieu d'exercice des dermatologues et vénérologues exerçant leur activité principale en libéral (en cabinet individuel ou de groupe ou en société).
+Si le praticien exerce dans plusieurs spécialités, seule la principale a été retenue.
+(source : Répertoire partagé des professionnels de santé - RPPS)
+
+D206 SPÉCIALISTE EN GASTRO-ENTÉROLOGIE HÉPATOLOGIE
+C'es le lieu d'exercice des gastro-entérologues et hépatologues exerçant leur activité principale en libéral (en cabinet individuel ou de groupe ou en société).
+Si le praticien exerce dans plusieurs spécialités, seule la principale a été retenue.
+(source : Répertoire partagé des professionnels de santé - RPPS)
+
+D207 SPÉCIALISTE EN PSYCHIATRIE
+C'est le lieu d'exercice des psychiatres exerçant leur activité principale en libéral (en cabinet individuel ou de groupe ou en société).
+Si le praticien exerce dans plusieurs spécialités, seule la principale a été retenue.
+(source : Répertoire partagé des professionnels de santé - RPPS)
+
+D208 SPÉCIALISTE EN OPHTALMOLOGIE
+C'est le lieu d'exercice des ophtalmologistes exerçant leur activité principale en libéral (en cabinet individuel ou de groupe ou en société).
+Si le praticien exerce dans plusieurs spécialités, seule la principale a été retenue.
+(source : Répertoire partagé des professionnels de santé - RPPS)
+
+D209 SPÉCIALISTE EN OTO-RHINO-LARYNGOLOGIE
+C'est le lieu d'exercice des oto-rhino-laryngologistes exerçant leur activité principale en libéral (en cabinet individuel ou de groupe ou en société).
+Si le praticien exerce dans plusieurs spécialités, seule la principale a été retenue.
+(source : Répertoire partagé des professionnels de santé - RPPS)
+
+D210 SPÉCIALISTE EN PÉDIATRIE
+C'est le lieu d'exercice des pédiatres et chirurgiens pédiatres exerçant leur activité principale en libéral (en cabinet individuel ou de groupe ou en société).
+Si le praticien exerce dans plusieurs spécialités, seule la principale a été retenue.
+(source : Répertoire partagé des professionnels de santé - RPPS)
+
+D211 SPÉCIALISTE EN PNEUMOLOGIE
+C'est le lieu d'exercice des pneumologues exerçant leur activité principale en libéral (en cabinet individuel ou de groupe ou en société).
+Si le praticien exerce dans plusieurs spécialités, seule la principale a été retenue.
+(source : Répertoire partagé des professionnels de santé - RPPS)
+
+D212 SPÉCIALISTE EN RADIODIAGNOSTIC ET IMAGERIE MÉDICALE
+C'est le lieu d'exercice des radiologues exerçant leur activité principale en libéral (en cabinet individuel ou de groupe ou en société).
+Si le praticien exerce dans plusieurs spécialités, seule la principale a été retenue.
+(source : Répertoire partagé des professionnels de santé - RPPS)
+
+D213 SPÉCIALISTE EN STOMATOLOGIE
+C'est le lieu d'exercice des stomatologues exerçant leur activité principale en libéral (en cabinet individuel ou de groupe ou en société).
+Si le praticien exerce dans plusieurs spécialités, seule la principale a été retenue.
+(source : Répertoire partagé des professionnels de santé - RPPS)
+
+D214 SPÉCIALISTE EN GYNÉCOLOGIE (MÉDICALE ET/OU OBSTÉTRIQUE)
+C'est le lieu d'exercice libéral des gynécologues et obstétriciens.
+Cette catégorie regroupe les anciens types d'équipements D204 « spécialiste en gynécologie médicale » et D205 « spécialiste en gynécologie obstétrique » depuis 2017.
+(source : Répertoire partagé des professionnels de santé - RPPS)
+
+D221 CHIRURGIEN DENTISTE
+C'est le lieu d'exercice libéral des chirurgiens dentistes
+(source : Répertoire partagé des professionnels de santé - RPPS)
+
+D231 SAGE-FEMME
+C'est le lieu d'exercice des sage-femmes exerçant leur activité principale en libéral (en cabinet individuel ou de groupe ou en société).
+(source : Répertoire partagé des professionnels de santé - RPPS)
+
+D232 INFIRMIER
+C'est le lieu d'exercice des infirmiers exerçant leur activité principale en libéral (en cabinet individuel ou de groupe ou en société).
+Les infirmiers psychiatriques sont absents la BPE.
+(source : Automatisation des listes - ADELI)
+
+D233 MASSEUR KINÉSITHÉRAPEUTE
+C'est le lieu d'exercice des masseurs et kinésithérapeutes exerçant leur activité principale en libéral (en cabinet individuel ou de groupe ou en société).
+(source : Répertoire partagé des professionnels de santé - RPPS)
+
+D235 ORTHOPHONISTE
+C'est le lieu d'exercice des orthophonistes exerçant leur activité principale en libéral (en cabinet individuel ou de groupe ou en société).
+(source : Automatisation des listes - ADELI)
+
+D236 ORTHOPTISTE
+C'est le lieu d'exercice des orthoptistes exerçant leur activité principale en libéral (en cabinet individuel ou de groupe ou en société).
+(source : Automatisation des listes - ADELI)
+
+D237 PÉDICURE-PODOLOGUE
+C'est le lieu d'exercice des pédicures-podologues exerçant leur activité principale en libéral (en cabinet individuel ou de groupe ou en société).
+Depuis 2018, les pédicures-podologues sont enregistrés dans le RPPS, et non plus dans ADELI.
+(source : Répertoire partagé des professionnels de santé - RPPS)
+
+D238 AUDIO PROTHÉSISTE
+Ce sont les structures où le service d'audio-prothésie est rendu par les professionnels exerçant à titre libéral ou comme salariés du privé.
+Les structures ne recevant pas habituellement du public (établissement d'enseignement, administration, entreprises…), sont exclues.
+Il est possible qu'il y ait un ou plusieurs libéraux et/ou un ou plusieurs salariés à la même adresse.
+(source : Automatisation des listes - ADELI)
+
+D239 ERGOTHÉRAPEUTE
+C'est le lieu d'exercice des ergothérapeutes exerçant leur activité principale en libéral (en cabinet individuel ou de groupe ou en société).
+(source : Automatisation des listes - ADELI)
+
+D240 PSYCHOMOTRICIEN
+C'est le lieu d'exercice des psychomotriciens exerçant leur activité principale en libéral (en cabinet individuel ou de groupe ou en société).
+(source : Automatisation des listes - ADELI)
+
+D242 DIÉTÉTICIEN
+C'est le lieu d'exercice libéral des diététiciens
+(source : Automatisation des listes - ADELI)
+
+D243 PSYCHOLOGUE
+C'est le lieu d'exercice libéral des psychologues
+(source : Automatisation des listes - ADELI)
+
+D3 AUTRES ÉTABLISSEMENTS ET SERVICES À CARACTÈRE SANITAIRE
+Ce sont les pharmacies, ambulances, laboratoires d'analyses, établissements thermaux ou de transfusion sanguine.
+
+D302 LABORATOIRE D ANALYSES ET DE BIOLOGIE MÉDICALE
+Ce sont les laboratoires ouverts au public et les autres laboratoires non autorisés à générer des feuilles de soins électroniques. Les services d'analyses biologiques des établissements hospitaliers n'y figurent pas.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D303 AMBULANCE
+Il s'agit de l'activité principale « Ambulance » déclarée.
+Cette activité est parfois exercée en annexe de celle de taxi en milieu rural et plus rarement avec celle des services funéraires. Elle ne figure alors pas dans la BPE.
+(source : SIRUS)
+
+D304 TRANSFUSION SANGUINE
+Les établissements de transfusion sanguine sont des établissements locaux sans personnalité morale de l'Etablissement français du sang.
+Ces établissements ont vocation à développer toute activité liée à la transfusion sanguine, au conseil et au suivi des actes de transfusion.
+Ce sont des établissements autonomes.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D305 ÉTABLISSEMENT THERMAL
+Ce sont les établissements qui utilisent sur place ou par adduction directe, pour le traitement interne ou externe des malades, l'eau d'une ou plusieurs sources minérales régulièrement autorisées ou ses dérivés : boues ou gaz.
+Ces établissements relèvent de la loi hospitalière.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D307 PHARMACIE
+Ce sont les commerces de détail de médicaments, produits paramédicaux, appareillages, produits d'hygiène et de produits vétérinaires.
+Ce type d'équipement inclut aussi les propharmaciens.
+Il y a eu un changement de source depuis la BPE 2020 : passage de Sirene à Finess.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D4 ACTION SOCIALE POUR PERSONNES ÂGÉES
+Ce sont les services d'hébergement, d'aide ou de soins à domicile pour les personnes âgées. Pour les services se déplaçant au domicile, l'équipement est situé au siège.
+
+D401 PERSONNES ÂGÉES : HÉBERGEMENT
+Ce sont les établissement d'hébergement pour personnes âgées : hospices, maisons de retraite, EHPA, EHPAD, résidences autonomie (les logements foyers requalifiés en résidence autonomie par la loi ASV) et résidences d'hébergement temporaire.
+On peut trouver à la même adresse des structures de types différents : maison de retraite, résidence autonomie, hospice, résidence…
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D402 PERSONNES ÂGÉES : SOINS À DOMICILE
+Ce sont les services de soins à domicile pour personnes âgées et personnes ayant une Déficience Motrice avec Troubles Associés (DMTA).
+L'équipement est localisé au siège du service.
+La clientèle de ce type d'équipement a évolué au 1er janvier 2020
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D403 PERSONNES ÂGÉES : SERVICES D'AIDE
+Ce sont les services d'aide ménagère à domicile, alarme médico-sociale, services d'aide aux personnes âgées et personnes ayant une Déficience Motrice avec Troubles Associés (DMTA), et portage de repas à domicile.
+L'équipement est localisé au siège du service.
+On trouve à la même adresse des services d'aide ménagère, d'alarme médico-sociale ou toute autre forme d'aide.
+La clientèle de ce type d'équipement a évolué au 1er janvier 2020
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D5 ACTION SOCIALE POUR ENFANTS EN BAS-ÂGE
+Ce sont les établissement d'accueil des jeunes enfants.
+
+D502 ÉTABLISSEMENT D'ACCUEIL DU JEUNE ENFANT (EAJE)
+Ce sont des structure autorisées à accueillir, de manière non permanente, des enfants de moins de 6 ans, et percevant une prestation de service CAF : crèche collective ou parentale, halte garderie, jardin d'enfants.
+Ce sont les équipements au 1er janvier 2020, correspondant aux établissements financés en 2019 par la CNAF.
+(source : Caisse nationale des allocations familiales - CNAF)
+
+D6 ACTION SOCIALE POUR HANDICAPÉS
+Ce sont les structures d'accueil, d'hébergement, d'aide aux personnes handicapées.
+
+D601 ENFANTS HANDICAPÉS : HÉBERGEMENT
+Ce sont les Instituts médico-éducatifs, médico-pédagogiques, médico-professionnels, jardins d'enfants spécialisés, instituts de rééducation, établissements pour déficients moteurs et/ou cérébraux, visuels et/ou auditifs, centres d'accueil familial spécialisés, foyers d'hébergement et établissements expérimentaux pour personnes handicapées.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D602 ENFANTS HANDICAPÉS : SERVICES À DOMICILE OU AMBULATOIRES
+Ce sont les services d'éducation spéciale et de soins à domicile, centres médico psycho pédagogiques (CMPP), centres d'action médico-sociale précoce (CAMSP), bureaux d'aide psychologique universitaires (BAPU).
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D603 ADULTES HANDICAPÉS : ACCUEIL/HÉBERGEMENT
+Ce sont les centres de placement familial, foyers d'hébergement, maisons d'accueil spécialisées (MAS), foyers occupationnels, foyers d'accueil médicalisés (FAM), établissements expérimentaux pour personnes handicapées, établissements d'accueil (médicalisés ou non) pour personnes handicapées.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D604 ADULTES HANDICAPÉS : SERVICES D'AIDE
+Ce sont les centres de pré-orientation, de rééducation professionnelle, services auxiliaires de vie, services d'accompagnement à la vie sociale (SAVS), services d'accompagnement médico-social adulte handicapé (SAMSAH).
+La patientèle de ce type d'équipement a évolué au 1er janvier 2020.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D605 TRAVAIL PROTÉGÉ
+Ce sont les établissements sociaux d'aide par le travail (ESAT) et ateliers protégés.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D606 ADULTES HANDICAPÉS : SERVICES DE SOINS À DOMICILE
+Ce sont les activités de soins d'accompagnement et de réhabilitation : services polyvalents d'aide et de soins à domicile pour personnes handicapées (SPASAD) et services de soins infirmiers à domicile (SSIAD) pour personnes handicapées.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D7 AUTRES SERVICES D'ACTION SOCIALE
+Ce sont les services d'accueil et de protection des publics en difficulté.
+
+D701 PROTECTION DE L'ENFANCE - HÉBERGEMENT
+Ce sont les établissements d'accueil mère-enfant, pouponnières à caractère social, foyers de l'enfance, villages et maisons d'enfants à caractère social, centres de placement familial socio éducatifs. Tous ces équipements sont sous tutelle des conseils départementaux.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D702 PROTECTION DE L'ENFANCE - ACTION ÉDUCATIVE
+Ce sont les Foyers d'action éducative (FAE), services éducatifs auprès des tribunaux (SEAT), centres d'action éducative (CAE), services d'action éducative en milieu ouvert (AEMO). Tous ces équipements sont sous tutelle de l'administration judiciaire.
+L'exhaustivité des équipements n'est pas garantie dans cette catégorie.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D703 CHRS : CENTRE D'HÉBERGEMENT ET DE RÉINSERTION SOCIALE
+Les Centres d'Hébergement et de Réinsertion Sociale (CHRS) ont pour mission d'assurer l'accueil, le logement, l'accompagnement et l'insertion sociale des personnes ou familles connaissant de graves difficultés en vue de les aider à accéder ou à recouvrer leur autonomie personnelle et sociale. Il s'agit notamment de victimes de violence, de personnes confrontées à l'alcoolisme et aux toxicomanies ou de personnes sortant de prison.
+Il existe aujourd'hui différents types de CHRS : en effet, certains sont des établissements spécialisés pour un type de public (femmes enceintes, personnes sortant de prison,…), d'autres sont des établissements de droit commun dit « tout public » (jeunes errants, grands exclus,…).
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D704 CENTRE PROVISOIRE D'HÉBERGEMENT
+Les Centres Provisoires d'Hébergement (C.P.H.) accueillent les familles ou les personnes qui ont obtenu le statut de réfugié délivré par l'Office Français de Protection des Réfugiés et Apatrides (OFPRA) ou la Cour Nationale du Droit d'Asile (CNDA). Les Centres Provisoires d'Hébergement (C.P.H.) proposent également un accompagnement socio-professionnel garantissant une première insertion en France (accès aux droits, scolarisation, suivi médical etc.).
+Le nombre de centres augmente depuis 2017. Une information du 04 décembre 2017 du Ministère de l'Intérieur précise les perspectives d'évolution du parc d'hébergement des demandeurs d'asile et des réfugiés.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D705 CENTRE ACCUEIL DEMANDEUR D'ASILE
+Les Centres d'Accueil de Demandeurs d'Asile (CADA) offrent aux demandeurs d'asile un lieu d'accueil pour toute la durée de l'étude de leur dossier de demande de statut de réfugié. Cet accueil prévoit leur hébergement, ainsi qu'un suivi administratif (accompagnement de la procédure de demande d'asile), un suivi social (accès aux soins, scolarisation des enfants, etc.) et une aide financière alimentaire. Les CADA sont en général gérés par des associations ou des entreprises.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+D709 AUTRES ÉTABLISSEMENTS POUR ADULTES ET FAMILLES EN DIFFICULTÉ
+Ce sont les aires de stationnement pour nomades, foyers d'hébergement de travailleurs migrants, foyers de jeunes travailleurs, hébergements des familles de malades, logement-foyers non spécialisé et les MAH (maisons d'accueil hospitalières).
+L'exhaustivité n'est pas garantie dans ce type d'équipement.
+(source : Fichier national des établissements sanitaires et sociaux - FINESS)
+
+E TRANSPORTS ET DÉPLACEMENTS
+Ce domaine regroupe les transports par les routes, les rails et les airs.
+
+E1 INFRASTRUCTURES DE TRANSPORTS
+Ce sont les taxis, aéroports et gares SNCF.
+
+E101 TAXI-VTC
+Il s'agit de l'activité principale déclarée de Taxi ou VTC.
+Cette activité est parfois exercée en annexe de celle d'ambulance et plus rarement avec celle de services funéraires. Elle ne figure alors pas dans la BPE.
+(source : SIRUS)
+
+E102 AÉROPORT
+Ce sont les aéroports en activité (mouvements commerciaux au départ ou à l'arrivée de l'aéroport, hors transit, durant l'année n-1) ayant plus de 1 000 passagers sur au moins une des cinq dernières années.
+(source : Direction générale de l'aviation civile - DGAC)
+
+E107 GARE DE VOYAGEURS D'INTÉRÊT NATIONAL
+Ce sont les gares des services nationaux et internationaux de voyageurs dont la fréquentation par les voyageurs est au moins égale à 250 000 par an.
+(source : SNCF)
+
+E108 GARE DE VOYAGEURS D'INTÉRÊT RÉGIONAL
+Ce sont les gares de voyageurs dont la fréquentation totale par les voyageurs est au moins égale à 100 000 par an (entre 100 000 et 250 000 voyageurs)
+(source : SNCF)
+
+E109 GARE DE VOYAGEURS D'INTÉRÊT LOCAL
+Cette catégorie regroupe toutes les gares de voyageurs qui ne sont pas d'intérêt régional ou national, dont la fréquentation totale est inférieure à 100 000 voyageurs par an.
+(source : SNCF)
+
+F SPORTS, LOISIRS ET CULTURE
+Ce domaine est divisé en trois catégories : les équipements sportifs, les équipements de loisirs (extérieurs) et les équipements culturels.
+
+F1 ÉQUIPEMENTS SPORTIFS
+Ce sont des infrastructures dans lesquelles une activité sportive peut être pratiquée, spécialisées ou non, intérieures ou extérieures.
+Seules les installations accessibles à tout public, à titre individuel ou via une structure publique ou privée (associative ou commerciale), pour y pratiquer une activité physique et/ou sportive, sont prises en compte.
+Une variable donne le nombre d'équipements de ce même type au sein de l'installation géolocalisée, et une variable donne le nombre de places en tribunes.
+Les équipements de ce sous-domaine sont les équipements référencés au 1er janvier 2020 dans le Répertoire des Equipements Sportifs (RES).
+
+F101 BASSIN DE NATATION
+Ce sont les bassins de natation sportive et/ou ludique, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F102 BOULODROME
+Ce sont les terrains de boules, de pétanque, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F103 TENNIS
+Ce sont les courts de tennis, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F104 ÉQUIPEMENT DE CYCLISME
+Ce sont les vélodromes et anneaux/pistes cyclistes, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F105 DOMAINE SKIABLE
+Ce sont les stations de ski et domaines nordiques, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F106 CENTRE ÉQUESTRE
+Ce sont les carrières, manèges, carrières de dressage/ronds de longe, structures de tourisme équestre, parcours d'obstacles, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F107 ATHLÉTISME
+Ce sont les infrastructures d'athlétisme (stades d'athlétisme, aires de lancer, aires de saut, pistes), accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F108 TERRAIN DE GOLF
+Ce sont les parcours 9 ou 18 trous, les parcours d'initiation, les practices, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F109 PARCOURS SPORTIF/SANTÉ
+Ce sont les parcours sportifs/santé, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F110 SPORTS DE GLACE
+Ce sont les aires de pratique sportive et/ou ludique des sports de glace, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F111 PLATEAUX ET TERRAINS DE JEUX EXTÉRIEURS
+Ce sont les plateaux EPS, multisports, city-stades, terrains de basket-ball, de beach-volley, de handball, de volley-ball, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F112 SALLES SPÉCIALISÉES
+Ce sont les salles de basket-ball, de beach-volley, de handball, de volley-ball, de badminton, de tennis de table, de culturisme, de danse, de gymnastique sportive, de patinage sur roulettes, de raquetball, de trampoline, d'haltérophilie, de squash, de blocs artificiels d'escalade et structure artificielle d'escalade, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F113 TERRAINS DE GRANDS JEUX
+Ce sont les terrains de football, de rugby, de football américain, de rugby à XIII, de base-ball/softball, de cricket, de hockey sur gazon, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F114 SALLES DE COMBAT
+Ce sont les dojo, salles de boxe, d'arts martiaux, de lutte, d'escrime, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F116 SALLES NON SPÉCIALISÉES
+Ce sont les salles polyvalentes, salles des fêtes, ou autres salles non spécialisées, accessibles à tout public pour l'activité physique et/ou sportive, et où s'exerce au moins une activité physique et/ou sportive.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F117 ROLLER-SKATE-VÉLO BICROSS OU FREESTYLE
+Ce sont les anneaux de roller, les skate-parks, les pistes de bicross, les espaces de vélo freestyle, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F118 SPORTS NAUTIQUES
+Ce sont les sites d'activités aquatiques et nautiques, les stades de ski nautique et/ou d'aviron, les stades mixtes, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F119 BOWLING
+Ce sont les établissements proposant des pistes de bowling, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F120 SALLES DE REMISE EN FORME
+Ce sont les salles de cours collectifs, de musculation/cardiotraining, abdos, etc, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F121 SALLES MULTISPORTS (GYMNASES)
+Ce sont les salles multisports ou gymnases, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F2 ÉQUIPEMENTS DE LOISIRS
+Ce sont des infrastructures extérieures aménagées, dédiées à la baignade, la plaisance ou la randonnée.
+Seules les installations accessibles à tout public, à titre individuel ou via une structure publique ou privée (associative ou commerciale), pour y pratiquer une activité physique et/ou sportive, sont prises en compte.
+Une variable donne le nombre d'équipements de ce même type au sein de l'installation géolocalisée.
+Les équipements de ce sous-domaine sont les équipements référencés au 1er janvier 2020 dans le Répertoire des Equipements Sportifs (RES).
+
+F201 BAIGNADE AMENAGÉE
+Ce sont des zone en rivière, en mer ou sur plan d'eau intérieur, délimitées matériellement par des bouées, des lignes d'eau, etc, pour la baignade surveillée, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F202 PORT DE PLAISANCE - MOUILLAGE
+Ce sont les ports de plaisance et zones de mouillage, accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F203 BOUCLE DE RANDONNÉE
+Ce sont uniquement les boucles et circuits de randonnée dont les points de départ et d'arrivée se situent sur la même commune (c'est une règle du RES), accessibles à tout public.
+Ce sont les équipements au 1er janvier 2020.
+(source : Recensement des équipements sportifs - RES)
+
+F3 ÉQUIPEMENTS CULTURELS ET SOCIOCULTURELS
+Ce sont les infrastructures culturelles : cinémas, théâtres, musées, salles de spectacles, conservatoires, bibliothèques et points de vente de livres, archives,
+Les champs d'une partie des types d'équipements culturels ont été redéfinis en 2021 : ajout, suppression et modification de types d'équipements.
+
+F303 CINÉMA
+Dans cette catégorie, un cinéma est considéré comme un lieu de projection disposant d'une autorisation d'exercice au sens du code de l'industrie cinématographique, et présent dans la base du Centre National du Cinéma (CNC).
+Un cinéma est présent dans cette base lorsqu'il dispose d'une autorisation administrative et qu'il a envoyé au moins un bordereau de recettes dans l'année.
+Cette catégorie contient aussi les cinémas classés « art et essai » gérés par le CNC.
+Depuis 2019, le champ géographique des cinémas s'est enrichi avec l'intégration des données des DOM (hors Mayotte).
+Depuis 2020, cette catégorie ne recense que les cinémas fixes, et ne prend pas en compte les cinémas itinérants.
+(source : Ministère de la Culture - DEPSD / Centre national du cinéma - CNC)
+
+F305 CONSERVATOIRE
+Ce sont des lieux dispensant un enseignement initial de musique, de danse et/ou d'art dramatique. Le ministère de la Culture les classe en trois catégories : les conservatoires à rayonnement communal ou intercommunal (CRC), les conservatoires à rayonnement départemental (CRD) et ceux à rayonnement régional (CRR).
+(source : Ministère de la Culture - DEPSD)
+
+F307 BIBLIOTHÈQUE
+Cette catégorie regroupe l'ensemble des points d'accès au livre (médiathèque, bibliothèque, point lecture, dépôt lecture…) relevant des collectivités territoriales : bibliothèques publiques de statut départemental, municipal, intercommunal et municipal classé (central ou annexe). Ces points d'accès au livre sont ouverts à tous et permettent la consultation sur place et le prêt à domicile.
+Cette catégorie ne comprend pas les bibliothèques nationales sous tutelle directe du ministère de la Culture (ex. la Bibliothèque nationale de France, la Bibliothèque publique d'information…).
+Ce type d'équipement a été introduit dans la BPE en 2019.
+(source : Ministère de la Culture - DEPSD)
+
+F311 LIVRES ET PRESSE
+Ce sont les librairies labellisées LIR (Librairie indépendante de référence) et LR (Librairie de référence).
+Ce type d'équipement a été introduit dans la BPE en 2021.
+(source : Ministère de la Culture - DEPSD / Centre national du livre).
+
+F312 EXPOSITION ET MEDIATION CULTURELLE
+Cette catégorie regroupe les musées, les maisons des Illustres, les micro folies, les centres culturels de rencontres, les centres d'art contemporain, les fonds régionaux d'art contemporain.
+Les musées relèvent de l'appellation Musées de France et appartiennent à l'État ou à une personne morale de droit public ou privé à but non lucratif, et dont la conservation et la présentation au public des collections présentent un intérêt public.
+Le label Maison des illustres existe depuis 2011 et signale des lieux dont la vocation est de conserver et transmettre la mémoire de femmes et d'hommes qui se sont illustrés dans l'histoire politique, sociale et culturelle de la France. Le label est attribué par le ministère de la Culture pour une durée de 5 ans renouvelables.
+Les Micro Folies sont des lieux culturels modulables, adaptés au contexte local en partenariat avec la collectivité territoriale d'accueil. Le projet qui y est développé est partagé avec les artistes installés localement et les acteurs culturels et socio-culturels.
+Les centres culturels de rencontre sont des lieux de patrimoine dédiés à des projets artistiques, culturels et scientifiques novateurs. Ils sont fortement impliqués dans la promotion du secteur culturel, dans l'éducation, et dans les enjeux de développement territorial. Consacrés par le label d'Etat Centre culturel de rencontre, ils disposent, de même que l'association, du soutien du ministère de la Culture français.
+Ce type d'équipement a été créé en 2021. Il reprend en grande partie et élargit (micro-folies et centres culturels de rencontres) le champ de l'ancien type d'équipement F309 - Lieux d'exposition et patrimoine, présent dans la BPE 2020.
+(source : Ministère de la Culture - DEPSD)
+
+F313 ESPACE REMARQUABLE ET PATRIMOINE
+Il s'agit des jardins remarquables et des monuments nationaux.
+Les jardins remarquables sont des jardins et des parcs ayant reçu le label Jardins remarquables.
+Ils présentent un intérêt culturel, esthétique, historique ou botanique, et sont publics ou privés. Le label Jardins remarquables existe depuis 2004 et est attribué pour une durée de 5 ans renouvelables par le Ministère de la Culture. L'objectif de ce label consiste à faire connaître et à valoriser des parcs et jardins de tous les styles, ouverts au public.
+Ce type d'équipement a été créé en 2021. Il reprend totalement le champ de l'ancien type d'équipement F310 - Jardins remarquables et une partie de l'ancien type d'équipement F309 - Lieux d'exposition et patrimoine (monuments nationaux), présents dans la BPE 2020.
+(source : Ministère de la Culture - DEPSD)
+
+F314 ARCHIVES
+Il s'agit des archives communales, départementales, régionales et nationales.
+Ce type d'équipement a été introduit dans la BPE en 2021.
+(source : Ministère de la Culture - DEPSD / France archives).
+
+F315 ARTS DU SPECTACLE
+Il s'agit de l'ensemble des structures dans lesquelles une représentation culturelle peut se tenir : théâtres, centres dramatiques nationaux et régionaux, théâtres nationaux, théâtre lyrique d'intérêt national, centres nationaux des arts de la rue et de l'espace public, pôles nationaux du cirque, centres chorégraphiques nationaux, centres de développement chorégraphiques nationaux, centres nationaux de création musicale, opéras nationaux en région, orchestres nationaux en région, scènes nationales et conventionnées, scènes de musiques actuelles, zéniths, compagnies avec lieux d'accueil.
+Ces lieux peuvent être labellisés ou non. La capacité correspond au nombre total de places offertes au public dans la structure. Si celle-ci dispose de plusieurs salles, leur capacité respective sont additionnées.
+Ce type d'équipement a été créé en 2021 et correspond au champ des anciens types d'équipements F306 - Théâtre - arts de rue - Pôle cirque, et F308 - Musique et danse, présents dans la BPE 2020.
+(source : Ministère de la Culture - DEPSD / Artcena).
+
+G TOURISME
+Ce domaine regroupe les structures d'hébergement et d'information touristique
+
+G1 TOURISME
+Ce sont les hôtels, les campings et les points d'information touristique.
+
+G101 AGENCE DE VOYAGE
+Il s'agit des agences de voyage et voyagistes.
+Ce type d'équipement ne contient pas les services de réservation et d'information touristique.
+(source : SIRUS)
+
+G102 HÔTEL
+Il s'agit des hôtels classés et des hôtels de tourisme non classés de 5 chambres et plus.
+Ce type d'équipement ne comprend pas les hôtels à vocation sociale uniquement, les résidences de tourisme et les résidences hôtelières.
+(source : enquêtes TOURISME)
+
+G103 CAMPING
+Il s'agit des campings ou aires naturelles disposant d'au moins 10 emplacements dont au moins 1 de passage. Cette catégorie comprend les campings des comités d'entreprise, à clientèle spécifique (ouvriers, colonies de vacances, forains…), si cette clientèle est de passage, c'est-à dire ne restant pas pendant toute la période d'ouverture du camping.
+Ce type d'équipement ne comprend pas les services de réservation et leurs activités liées.
+(source : enquêtes TOURISME)
+
+G104 INFORMATION TOURISTIQUE
+Il s'agit des activités d'information touristique, dont les services de réservation et d'information touristique, les offices de tourisme, et les guides touristiques.
+Ce type d'équipement ne comprend pas les agences de voyage et les voyagistes (G101).
+(source : SIRUS)
