@@ -42,7 +42,7 @@ def convert(file_path: str) -> str:
     entries = parse_text_file(file_path)
 
     # Define the URI for the vocabulary
-    vocabulary_uri = URIRef(f"http://bpe.eurecom.fr/vocabulary/bpe-category")
+    vocabulary_uri = URIRef("http://data.edf.eurecom.fr/vocabulary/bpe")
 
     # Create a new RDF graph
     g = Graph()

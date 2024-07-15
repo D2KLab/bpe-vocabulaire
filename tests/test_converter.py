@@ -43,9 +43,9 @@ sample_entries = [
 ]
 
 expected_graph = Graph()
-vocabulary_uri = URIRef("http://bpe.eurecom.fr/vocabulary/bpe-category")
-item1_uri = URIRef("http://bpe.eurecom.fr/vocabulary/bpe-category/A")
-item2_uri = URIRef("http://bpe.eurecom.fr/vocabulary/bpe-category/A1")
+vocabulary_uri = URIRef("http://data.edf.eurecom.fr/vocabulary/bpe")
+item1_uri = URIRef("http://data.edf.eurecom.fr/vocabulary/bpe/A")
+item2_uri = URIRef("http://data.edf.eurecom.fr/vocabulary/bpe/A1")
 expected_graph.add((vocabulary_uri, RDF.type, SKOS.ConceptScheme))
 expected_graph.add((vocabulary_uri, DC.language, Literal("fr")))
 expected_graph.add((vocabulary_uri, DC.date, Literal("2022-05-16")))
@@ -72,11 +72,11 @@ expected_graph.add(
 )
 expected_graph.add((item2_uri, SKOS.inScheme, vocabulary_uri))
 expected_graph.add(
-    (item2_uri, SKOS.broader, URIRef("http://bpe.eurecom.fr/vocabulary/bpe-category/A"))
+    (item2_uri, SKOS.broader, URIRef("http://data.edf.eurecom.fr/vocabulary/bpe/A"))
 )
 expected_graph.add(
     (
-        URIRef("http://bpe.eurecom.fr/vocabulary/bpe-category/A"),
+        URIRef("http://data.edf.eurecom.fr/vocabulary/bpe/A"),
         SKOS.narrower,
         item2_uri,
     )
