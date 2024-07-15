@@ -21,7 +21,7 @@ Pour installer Poetry, suivez les instructions de la [documentation officielle](
    ```
 1. Exécutez le script Python comme suit :
    ```sh
-   poetry run python -m bpe_vocabulary.converter
+   poetry run python -m bpe_vocabulaire.converter
    ```
 
 Le script générera un fichier RDF `bpe-vocabulary.ttl` contenant le vocabulaire correspondant à la hiérarchie des types d'équipements.
